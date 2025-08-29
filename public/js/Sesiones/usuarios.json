@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "username": "Matygosalo12",
+    "email": "matyempresa@gmail.com",
+    "password": "$2b$12$evMcl9EM/sHxtymLOJylEO08itUbIoH7wGXa74TFKcFKeWH3dK0/O",
+    "rut": "$2b$12$4oyQyfW41QTt61.5VsZLxet7hDIMfbtt5IRX.CHxW2S7vsdLPAoK2",
+    "telefono": "989789654",
+    "direccion": "Av Francisco Bilbao #0614",
+    "ciudad": "san carlos",
+    "region": "Ñuble",
+    "estado": "activo",
+    "rol_id": 1,
+    "creado_en": "2025-08-27T19:48:57.386Z"
+  },
+  {
+    "id": 2,
+    "username": "eligadoso",
+    "email": "raul.hm280@gmail.com",
+    "password": "$2b$12$rVidCDs11UAVKOnYwHAFEuHIRL4z5VIB7FFXXgfEGh5foF59Fyev6",
+    "rut": "$2b$12$QT4apbkBlrNjQjqMyYxHaeVBtGXZh6zPqHZSck8OAaZPhH4rN2Frq",
+    "telefono": "936403212",
+    "direccion": "AVENIDA VILLA PERRO 99",
+    "ciudad": "Padre las houses",
+    "region": "La Araucanía",
+    "estado": "activo",
+    "rol_id": 2,
+    "creado_en": "2025-08-27T20:06:48.369Z"
+  },
+  {
+    "id": 3,
+    "username": "Aaron3309",
+    "email": "aaronbravo.2025@gmail.com",
+    "password": "$2b$12$7HnDYc50KVdG9O18.M2wfe1AoOb7AKhW0hfX5/iHfGib24Mm2drWO",
+    "rut": "$2b$12$9b6PjwxRHC8N270yRN6ux.TVB38QVFiL2YQbJWXaLwfr2Hl47SlmK",
+    "telefono": "934314352",
+    "direccion": "av Federico errazuris #1250",
+    "ciudad": "santiago",
+    "region": "Metropolitana",
+    "estado": "activo",
+    "rol_id": 2,
+    "creado_en": "2025-08-27T23:11:37.151Z"
+  }
+]
